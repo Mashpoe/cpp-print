@@ -1,4 +1,4 @@
-# Python-Print-for-CPP
+# Python-Like Print for C++
 An implementation of Python 3's "print" function in C++. It can take any number of arguments with mixed types!
 
 # Example:
